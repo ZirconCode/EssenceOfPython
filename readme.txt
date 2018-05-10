@@ -1,5 +1,5 @@
 Essence of Python
-Version 0.0001
+Version 0.0001 (unfinished)
 
 A beautiful scripting language dreamt up in a stupor by @zirconcode and @alucard17
 Official Language of Tautology Club
